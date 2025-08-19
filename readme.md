@@ -84,5 +84,5 @@ MediaPipe Documentation - https://developers.google.com/mediapipe
 Scikit-learn Documentation - https://scikit-learn.org/stable/  
 Python Official Docs - https://docs.python.org/3/  
 
-⚠️ **Note**
+⚠️ **Note**  
 This project is still incomplete and under active development. Contributions from teammates are welcome. 🚀
