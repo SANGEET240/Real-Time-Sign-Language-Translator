@@ -1,4 +1,4 @@
-# ✋ Real-Time Conversion of Sign Language to Text  
+# ✋ Real-Time Sign language Translator  
 
 ## 📌 Project Overview  
 This project aims to build a system that can detect **hand gestures** using a webcam and convert them into **text in real-time**.  
