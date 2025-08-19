@@ -83,11 +83,11 @@ Support for full sign language vocabulary.
 Two-way communication (text-to-speech & speech-to-sign).
 Mobile or web-based deployment.
 
-📖 References
-OpenCV Documentation - https://opencv.org/
-MediaPipe Documentation - https://developers.google.com/mediapipe
-Scikit-learn Documentation - https://scikit-learn.org/stable/
-Python Official Docs - 
+📖 References  
+OpenCV Documentation - https://opencv.org/  
+MediaPipe Documentation - https://developers.google.com/mediapipe  
+Scikit-learn Documentation - https://scikit-learn.org/stable/  
+Python Official Docs - https://docs.python.org/3/  
 
 ⚠️ Note
 This project is still incomplete and under active development. Contributions from teammates are welcome. 🚀
