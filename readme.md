@@ -65,24 +65,24 @@ SignLanguageToText/
    ```bash
    "pip install -r requirements.txt"
 
-4. **Run the project**
+4. **RUN the project**
 "python main.py"
 
-📊 **Current Progress**
+📊 **CURRENT PROGRESS**  
 Hand detection works successfully using MediaPipe.
 Initial GUI setup in Tkinter is in progress.
 Next steps: gesture dataset collection & model training.
 
-🔮 **Future Scope**
+🔮 **FUTURE SCOPE**  
 Support for full sign language vocabulary.
 Two-way communication (text-to-speech & speech-to-sign).
 Mobile or web-based deployment.
 
-📖 **References**  
+📖 **REFERENCES**  
 OpenCV Documentation - https://opencv.org/  
 MediaPipe Documentation - https://developers.google.com/mediapipe  
 Scikit-learn Documentation - https://scikit-learn.org/stable/  
 Python Official Docs - https://docs.python.org/3/  
 
-⚠️ **Note**  
+⚠️ **NOTE**  
 This project is still incomplete and under active development. Contributions from teammates are welcome. 🚀
