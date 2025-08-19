@@ -58,7 +58,7 @@ SignLanguageToText/
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/SignLanguageToText.git
+   git clone https://github.com/SANGEET240/Real-Time-sign-language-translator.git
    cd SignLanguageToText
 
 2. Create a virtual environment (recommended)  
