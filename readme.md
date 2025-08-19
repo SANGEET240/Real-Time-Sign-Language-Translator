@@ -61,7 +61,7 @@ SignLanguageToText/
    git clone https://github.com/YOUR_USERNAME/SignLanguageToText.git
    cd SignLanguageToText
 
-2. Create a virtual environment (recommended)
+2. Create a virtual environment (recommended)  
 "python -m venv venv"  
 "source venv/Scripts/activate"   # For Windows  
 
