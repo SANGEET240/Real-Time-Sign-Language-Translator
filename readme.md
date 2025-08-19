@@ -65,7 +65,7 @@ SignLanguageToText/
    ```bash
    "pip install -r requirements.txt"
 
-4. **RUN the project**
+4. **RUN the project**  
 "python main.py"
 
 📊 **CURRENT PROGRESS**  
