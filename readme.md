@@ -62,8 +62,8 @@ SignLanguageToText/
    cd SignLanguageToText
 
 2. Create a virtual environment (recommended)
-"python -m venv venv"
-"source venv/Scripts/activate"   # For Windows
+"python -m venv venv"  
+"source venv/Scripts/activate"   # For Windows  
 
 3. Install dependencies
 "pip install -r requirements.txt"
