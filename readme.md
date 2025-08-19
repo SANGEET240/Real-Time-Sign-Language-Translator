@@ -41,16 +41,11 @@ Upcoming features include **gesture classification, text generation, GUI integra
 ---
 
 ## 📂 Project Structure (so far)  
-SignLanguageToText/
-
-│-- handmodule.py # Hand detection module
-
-│-- main.py # Main file (GUI + detection logic)
-
-│-- requirements.txt # Dependencies
-
-│-- README.md # Project documentation
-
+SignLanguageToText/  
+│-- handmodule.py # Hand detection module  
+│-- main.py # Main file (GUI + detection logic)  
+│-- requirements.txt # Dependencies  
+│-- README.md # Project documentation  
 
 ---
 
